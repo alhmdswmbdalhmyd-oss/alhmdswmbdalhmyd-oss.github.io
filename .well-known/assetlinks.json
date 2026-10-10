@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.alhmdswmbdalhmyd_oss.twa",
-    "sha256_cert_fingerprints": ["7A:17:05:09:97:81:2B:DD:5B:8B:9F:1E:F3:9E:2D:BF:1E:19:EE:8C:AC:9B:BF:8C:0F:25:0D:80:05:49:06:FF"]
+    "sha256_cert_fingerprints": [
+      "03:9E:34:CA:CC:15:33:86:BD:0E:66:F6:94:A9:33:9A:A4:32:23:A7:8C:41:92:34:EC:B5:24:58:36:C1:05:B2",
+      "7A:17:05:09:97:81:2B:DD:5B:8B:9F:1E:F3:9E:2D:BF:1E:19:EE:8C:AC:9B:BF:8C:0F:25:0D:80:05:49:06:FF"
+    ]
   }
 }]
